@@ -7,4 +7,4 @@
 6. **Experience**: I worked as *Social Media Evaluator* for *Appen* in *Instagram* and *Facebook*. Also, i worked as a freelancer, I was developing websites on HTML and CSS, Tilda. I have the second place in *"Republican Robotics Olympiad"*.
 Also it would be awesome if you add links to source code)
 7. I'm studying in BSUIR, finishing my first year. I learned ***C*** with individual teacher, then I ended courses for ***C#*** in ***IT_CLUB***.
-8. I have **B2** level of English. It is my 9-th year of learning English with personal tutor. I visited Language Camp. I can almost freely read english literature.
+8. I have **B2** level of English. It is my 9-th year of learning English  with personal tutor. I visited Language Camp. I can almost freely read english literature.
