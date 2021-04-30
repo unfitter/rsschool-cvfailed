@@ -1,2 +1,2 @@
 # rsschool-cv
- https://github.com/unfitter/rsschool-cv/cv.md
+  https://github.com/unfitter/rsschool-cv/cv.md
