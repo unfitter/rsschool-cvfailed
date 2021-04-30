@@ -1,5 +1,5 @@
 **CV**
-1. Oleg Shvets
+1.  Oleg Shvets
 2. **TEL**:*+375291758004*, **TELEGRAM**:*@destroyer_alarming*, **Email**:*olegsvec742@gmail.com*.
 3. My main goal is to create my own international application for mobile phones. In my future job one of the most important things is teamwork. I'm an excellent teamplayer, just like a singlplayer. Trust me, I am a quicklearning, motivated, I am able to work under pressure. I am interested in technology, always read technical literature.
 4. I have skills working in Visual Studio, now I am learning Xcode. I have basic knowledge in ***C***, ***C++***, ***C#***, ***HTML*** and ***CSS***.
